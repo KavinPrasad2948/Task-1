@@ -13,9 +13,10 @@ I have post a blog on Medium.com .
 ## Object And Its Internal Representation.
 
  I Posted Another Blog regarding Object and its internal representation in Medium.com . 
- 
- ---
 
 > [CLICK HERE](https://medium.com/@kavinprasad2948/objects-and-its-internal-representation-in-javascript-fb054d81f6ef) For Link 
+
+
+---
 
 TASK 1 Completed; :sunglasses:
