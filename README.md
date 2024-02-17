@@ -13,13 +13,4 @@ I have posted a blog on Medium.com about the differences between HTTP 1.1 and HT
 >[CLICK HERE](https://medium.com/@kavinprasad2948/the-difference-between-http-1-1-and-http-2-1f7d15f5bd5f) For Link.
 
 -----
-## Object And Its Internal Representation.
 
- I posted another blog regarding objects and their internal representation on Medium.com.
-
-> [CLICK HERE](https://medium.com/@kavinprasad2948/objects-and-its-internal-representation-in-javascript-fb054d81f6ef) For Link. 
-
-
----
-
-TASK 1 Completed; :sunglasses:
